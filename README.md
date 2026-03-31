@@ -2,7 +2,7 @@
 
 # Heart Disease Prediction System
 
-##Overview
+## Overview
 
 This project is a machine learning-based system that predicts whether a person is likely to have heart disease based on medical attributes.
 
@@ -19,13 +19,13 @@ It uses a Random Forest Classifier trained on a structured dataset to perform bi
 * Sample prediction demonstration
 
 
-##Dataset
+## Dataset
 
 * Source: Kaggle Heart Disease Dataset
 * File used: `heart_disease_uci.csv`
 
 
-##Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -33,7 +33,7 @@ It uses a Random Forest Classifier trained on a structured dataset to perform bi
 * KaggleHub
 
 
-##How It Works
+## How It Works
 
 1. Load dataset
 2. Clean and preprocess data
@@ -44,7 +44,7 @@ It uses a Random Forest Classifier trained on a structured dataset to perform bi
 7. Make predictions
 
 
-##Installation & Setup
+## Installation & Setup
 
 ### Step 1: Clone the repository
 
@@ -66,14 +66,14 @@ python main.py
 ```
 
 
-##Output
+## Output
 
 * Accuracy score
 * Classification report
 * Sample prediction result
 
 
-##Example Output
+## Example Output
 
 ```
 Accuracy: 0.84
@@ -82,7 +82,7 @@ Prediction: Heart Disease Detected
 ```
 
 
-##Limitations
+## Limitations
 
 * Small dataset
 * No hyperparameter tuning
